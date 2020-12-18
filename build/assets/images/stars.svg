@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="16" viewBox="0 0 85 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="85" height="16" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_2" data-name="Repeat Grid 2" clip-path="url(#clip-path)">
+    <g transform="translate(-25 -1788.5)">
+      <path id="Polygon_16" data-name="Polygon 16" d="M8,0l2,5.578,6,.151-4.764,3.6L12.944,15,8,11.646,3.056,15,4.764,9.328,0,5.729l6-.151Z" transform="translate(25.5 1789)" fill="#6c63ff"/>
+    </g>
+    <g transform="translate(-8 -1788.5)">
+      <path id="Polygon_16-2" data-name="Polygon 16" d="M8,0l2,5.578,6,.151-4.764,3.6L12.944,15,8,11.646,3.056,15,4.764,9.328,0,5.729l6-.151Z" transform="translate(25.5 1789)" fill="#6c63ff"/>
+    </g>
+    <g transform="translate(9 -1788.5)">
+      <path id="Polygon_16-3" data-name="Polygon 16" d="M8,0l2,5.578,6,.151-4.764,3.6L12.944,15,8,11.646,3.056,15,4.764,9.328,0,5.729l6-.151Z" transform="translate(25.5 1789)" fill="#6c63ff"/>
+    </g>
+    <g transform="translate(26 -1788.5)">
+      <path id="Polygon_16-4" data-name="Polygon 16" d="M8,0l2,5.578,6,.151-4.764,3.6L12.944,15,8,11.646,3.056,15,4.764,9.328,0,5.729l6-.151Z" transform="translate(25.5 1789)" fill="#6c63ff"/>
+    </g>
+    <g transform="translate(43 -1788.5)">
+      <path id="Polygon_16-5" data-name="Polygon 16" d="M8,0l2,5.578,6,.151-4.764,3.6L12.944,15,8,11.646,3.056,15,4.764,9.328,0,5.729l6-.151Z" transform="translate(25.5 1789)" fill="#6c63ff"/>
+    </g>
+  </g>
+</svg>

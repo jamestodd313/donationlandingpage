@@ -1,0 +1,40 @@
+.review-card{
+    background: #EDEDED;
+    border-radius: 8px;
+    padding: 16px;
+    height: 189px;
+    min-width: calc(100vw - 64px);
+    max-width: calc(100vw - 64px);
+    margin-left: 8px;
+    display: flex;
+    box-shadow: 0px 5px 5px rgba(0,0,0,0.2);
+    .user-img{
+        @include size(86px, 86px);
+    }
+    .content{
+        display: inline-block;
+        padding-left: 16px;
+        h4{
+            margin-bottom: 3px;
+        }
+        .review{
+            margin-top: 6px;
+        }
+    }
+    &:first-of-type{
+        margin-left: 16px;
+    }
+    @media screen and (min-width:768px){
+        max-width: 345px;
+        min-width: 345px;
+        margin-left: 16px;
+        &:first-of-type{
+            margin-left: 32px;
+        }
+    }
+    @media screen and (min-width: 992px){
+        &:first-of-type{
+            margin-left: 146px;
+        }
+    }
+}

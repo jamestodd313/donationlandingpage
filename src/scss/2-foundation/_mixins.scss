@@ -1,0 +1,15 @@
+@mixin  size($h, $w) {
+    height: $h;
+    width: $w;
+}
+
+
+@mixin p-16(){
+    padding: 16px;
+}
+@mixin p-32(){
+    padding: 32px;
+}
+@mixin p-146(){
+    padding: 32px 146px;
+}

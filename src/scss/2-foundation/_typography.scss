@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;900&display=swap');
+
+body{
+    font-family: 'Poppins';
+}
+h1{
+    font-size: 33.88px;
+    line-height: 51px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+    @media screen and (min-width: 768px){
+        font-size: 54.82px;
+        line-height: 82px;
+    }
+    @media screen and (min-width: 992px){
+        font-size: 77px;
+        padding-bottom: 0px;
+        line-height: 100px;
+        text-align: left;
+    }
+}
+h2{
+    font-size: 20.94px;
+    color: white;
+    line-height: 31px;
+    font-weight: 600;
+    @media screen and (min-width: 768px){
+        font-size: 33.88px;
+        line-height: 51px;
+    }
+    @media screen and (min-width: 992px){
+        font-size: 54.82px;
+        line-height: 82px;
+    }
+}
+h3{
+    font-size: 20.94px;
+    color: #0d0d0d;
+}
+p.subhead{
+    color: white;
+    font-size: 24px;
+    line-height: 51px;
+    width: 60%;
+}
+p.feature-desc{
+    font-size: 12.94px;
+    line-height: 20px;
+    color: white;
+    @media screen and (min-width: 768px){
+        font-size: 20.94px;
+        line-height: 31px;
+    }
+    
+}
+p.review{
+    font-size: 12.94px;
+    line-height: 20.94px;
+}
+
+.icon-label{
+    font-size: 12.94px;
+    font-weight: 600;
+    color: $primary-dark;
+    margin-top: 5px;
+}
+
+a.all-reviews{
+    color: #7B7B7B;
+    text-decoration: none;
+}
+
+a.footer-link{
+    font-weight: 600;
+    &:hover{
+        color:$primary;
+    }
+}
