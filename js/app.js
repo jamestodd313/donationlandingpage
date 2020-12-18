@@ -1,0 +1,2 @@
+const menuBtn=document.querySelectorAll("button.burger")[0],menu=document.querySelectorAll("nav")[0],toggleMenu=()=>{menu.classList.contains("active")?menu.classList.remove("active"):menu.classList.add("active")};menuBtn.addEventListener("click",toggleMenu);
+//# sourceMappingURL=app.js.map

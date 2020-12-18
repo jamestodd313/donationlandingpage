@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":["menuBtn","document","querySelectorAll","menu","toggleMenu","classList","contains","remove","add","addEventListener"],"mappings":"AAAA,MAAMA,QAAUC,SAASC,iBAAiB,iBAAiB,GACrDC,KAAOF,SAASC,iBAAiB,OAAO,GAExCE,WAAa,KAChBD,KAAKE,UAAUC,SAAS,UAAWH,KAAKE,UAAUE,OAAO,UACvDJ,KAAKE,UAAUG,IAAI,WAExBR,QAAQS,iBAAiB,QAASL","file":"app.js"}
